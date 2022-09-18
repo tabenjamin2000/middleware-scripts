@@ -12,7 +12,7 @@ echo "Please wait ..."
 sleep 1
 
 # Java installation process
-sudo yum install java-1.8.0-openjdk-devel -y
+sudo yum install java-11-openjdk-devel -y
 if [ $? -eq 0 ]
 then 
 echo "Java Installation in process. Please wait ..."
