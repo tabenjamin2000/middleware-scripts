@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: Benjamin 
-# Date: June 2022
+# Date: May 2020
 
 ## This script is for installing and running SonarQube on java11
 
