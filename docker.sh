@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: Benjamin 
-# Date: June 2022
+# Date: December 2020
 
 ## This script is for installing Docker on Centos7
 ## Docker is a containerization software used to create and manage containers. To use docker containers, you must first of all install Docker on your system.
