@@ -1,6 +1,6 @@
 #!/bin/bash
 # AUTHOR: Benjamin
-# DATE: June 2022
+# DATE: June 2017
 ## This script performs a full system inventory and provides a file that contains the inventory report.
 
 # -------------------------------------- System inventory ----------------------------------------------
