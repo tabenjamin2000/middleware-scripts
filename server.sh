@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: Benjamin Tagnan
-# Date: June 2022
+# Date: January 2016
 # This is an automated server installation using a personalized IP address.
 # You can personalize the directory name if needed.
 
