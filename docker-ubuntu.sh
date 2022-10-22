@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: Benjamin 
-# Date: June 2022
+# Date: November 2020
 
 ## This script is for installing Docker on Ubuntu (Jammy 22.04 (LTS), Impish 21.10, Focal 20.04 (LTS), or Bionic 18.04 (LTS))
 ## Docker is a containerization software used to create and manage containers. To use docker containers, you must first of all install Docker on your system.
